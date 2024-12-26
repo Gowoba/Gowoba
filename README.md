@@ -7,13 +7,6 @@
 <br>
 <br>
 
-
-<div align="center">
-  
-[![GitHub Streak](https://streak-stats.demolab.com?user=Gowoba&theme=shadow-purple&date_format=j%20M%5B%20Y%5D&hide_total_contributions=true)](https://git.io/streak-stats)
-
-</div>
-
 <div align="center"> 
 
 <a  href="https://www.linkedin.com/in/gabrlel-gomes/" target=_blank>
